@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kapish-0x/DSA/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Kapish-0x/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Kapish-0x/DSA/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Kapish-0x/DSA/tree/master/0238-product-of-array-except-self) |
@@ -45,10 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kapish-0x/DSA/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/Kapish-0x/DSA/tree/master/0125-valid-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Kapish-0x/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kapish-0x/DSA/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/Kapish-0x/DSA/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
