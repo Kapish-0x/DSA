@@ -1,7 +1,7 @@
 class Solution {
     public boolean validPalindrome(String s) {
         int i = 0, j = s.length() - 1;
-        
+
         while (i < j) {
             if (s.charAt(i) != s.charAt(j)) {
                 // try skipping either the left char or the right char
@@ -12,7 +12,7 @@ class Solution {
         }
         return true;
     }
-    
+
     private boolean isPalindromeRange(String s, int left, int right) {
         while (left < right) {
             if (s.charAt(left) != s.charAt(right)) {
