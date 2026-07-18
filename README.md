@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kapish-0x/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Kapish-0x/DSA/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/Kapish-0x/DSA/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Kapish-0x/DSA/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kapish-0x/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Kapish-0x/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Kapish-0x/DSA/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/Kapish-0x/DSA/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Kapish-0x/DSA/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/Kapish-0x/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Kapish-0x/DSA/tree/master/0127-word-ladder) |
 | [0994-rotting-oranges](https://github.com/Kapish-0x/DSA/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/Kapish-0x/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
