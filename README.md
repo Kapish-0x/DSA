@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kapish-0x/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Kapish-0x/DSA/tree/master/0015-3sum) |
+| [0045-jump-game-ii](https://github.com/Kapish-0x/DSA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Kapish-0x/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Kapish-0x/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Kapish-0x/DSA/tree/master/0055-jump-game) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Kapish-0x/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Kapish-0x/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Kapish-0x/DSA/tree/master/0055-jump-game) |
 ## Prefix Sum
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kapish-0x/DSA/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/Kapish-0x/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Kapish-0x/DSA/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/Kapish-0x/DSA/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
