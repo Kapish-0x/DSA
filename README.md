@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Kapish-0x/DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Kapish-0x/DSA/tree/master/0134-gas-station) |
 | [0238-product-of-array-except-self](https://github.com/Kapish-0x/DSA/tree/master/0238-product-of-array-except-self) |
+| [1631-path-with-minimum-effort](https://github.com/Kapish-0x/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Sliding Window
 |  |
 | ------- |
@@ -65,4 +66,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Kapish-0x/DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Kapish-0x/DSA/tree/master/0134-gas-station) |
 | [0680-valid-palindrome-ii](https://github.com/Kapish-0x/DSA/tree/master/0680-valid-palindrome-ii) |
+## Binary Search
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Kapish-0x/DSA/tree/master/1631-path-with-minimum-effort) |
+## Depth-First Search
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Kapish-0x/DSA/tree/master/1631-path-with-minimum-effort) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Kapish-0x/DSA/tree/master/1631-path-with-minimum-effort) |
+## Union-Find
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Kapish-0x/DSA/tree/master/1631-path-with-minimum-effort) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Kapish-0x/DSA/tree/master/1631-path-with-minimum-effort) |
+## Matrix
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Kapish-0x/DSA/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
