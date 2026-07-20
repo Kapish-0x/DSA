@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kapish-0x/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/Kapish-0x/DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Kapish-0x/DSA/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Kapish-0x/DSA/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Kapish-0x/DSA/tree/master/0242-valid-anagram) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kapish-0x/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Kapish-0x/DSA/tree/master/0015-3sum) |
+| [0037-sudoku-solver](https://github.com/Kapish-0x/DSA/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/Kapish-0x/DSA/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Kapish-0x/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Kapish-0x/DSA/tree/master/0053-maximum-subarray) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Kapish-0x/DSA/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Kapish-0x/DSA/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/Kapish-0x/DSA/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Kapish-0x/DSA/tree/master/0994-rotting-oranges) |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Kapish-0x/DSA/tree/master/0037-sudoku-solver) |
 | [0052-n-queens-ii](https://github.com/Kapish-0x/DSA/tree/master/0052-n-queens-ii) |
 | [0079-word-search](https://github.com/Kapish-0x/DSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Kapish-0x/DSA/tree/master/0093-restore-ip-addresses) |
