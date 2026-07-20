@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kapish-0x/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Kapish-0x/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Kapish-0x/DSA/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/Kapish-0x/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Kapish-0x/DSA/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Kapish-0x/DSA/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Kapish-0x/DSA/tree/master/0242-valid-anagram) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Kapish-0x/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Kapish-0x/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Kapish-0x/DSA/tree/master/0055-jump-game) |
+| [0079-word-search](https://github.com/Kapish-0x/DSA/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Kapish-0x/DSA/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/Kapish-0x/DSA/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/Kapish-0x/DSA/tree/master/0152-maximum-product-subarray) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Kapish-0x/DSA/tree/master/0079-word-search) |
 | [1631-path-with-minimum-effort](https://github.com/Kapish-0x/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Kapish-0x/DSA/tree/master/0079-word-search) |
 | [0994-rotting-oranges](https://github.com/Kapish-0x/DSA/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/Kapish-0x/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Math
@@ -121,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kapish-0x/DSA/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Kapish-0x/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
