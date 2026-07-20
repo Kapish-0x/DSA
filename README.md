@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Kapish-0x/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Kapish-0x/DSA/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Kapish-0x/DSA/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/Kapish-0x/DSA/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Kapish-0x/DSA/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Kapish-0x/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Kapish-0x/DSA/tree/master/0131-palindrome-partitioning) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Kapish-0x/DSA/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/Kapish-0x/DSA/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Kapish-0x/DSA/tree/master/0131-palindrome-partitioning) |
 | [0980-unique-paths-iii](https://github.com/Kapish-0x/DSA/tree/master/0980-unique-paths-iii) |
 ## Bit Manipulation
