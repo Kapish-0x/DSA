@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Kapish-0x/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Kapish-0x/DSA/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Kapish-0x/DSA/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Kapish-0x/DSA/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Kapish-0x/DSA/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/Kapish-0x/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1143-longest-common-subsequence](https://github.com/Kapish-0x/DSA/tree/master/1143-longest-common-subsequence) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Kapish-0x/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Kapish-0x/DSA/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Kapish-0x/DSA/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/Kapish-0x/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Kapish-0x/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Kapish-0x/DSA/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Kapish-0x/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Kapish-0x/DSA/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Kapish-0x/DSA/tree/master/0131-palindrome-partitioning) |
 | [0980-unique-paths-iii](https://github.com/Kapish-0x/DSA/tree/master/0980-unique-paths-iii) |
 ## Bit Manipulation
 |  |
