@@ -1,46 +1,36 @@
 import java.util.Arrays;
 
 class Solution {
-    int[][] memo;
-
-    public int calculateMinimumHP(int[][] dungeon) {
-        int m = dungeon.length;
-        int n = dungeon[0].length;
-        memo = new int[m][n];
-        for (int[] row : memo) {
+    public int calculateMinimumHP(int[][] arr) {
+        int[][] dp = new int[arr.length][arr[0].length];
+        for (int[] row : dp) {
             Arrays.fill(row, -1);
         }
-        return getMinHP(0, 0, dungeon);
+        return dfs(0, 0, arr, dp);
     }
 
-    private int getMinHP(int i, int j, int[][] dungeon) {
-        int m = dungeon.length;
-        int n = dungeon[0].length;
-
-        // Base Case: Reached Princess
-        if (i == m - 1 && j == n - 1) {
-            return Math.max(1, 1 - dungeon[i][j]);
-        }
-
-        // Out of bounds -> Return infinity so Math.min ignores this path
-        if (i >= m || j >= n) {
+    public static int dfs(int i, int j, int[][] arr, int[][] dp) {
+        // Out-of-bounds -> Return MAX_VALUE so Math.min ignores this direction
+        if (i >= arr.length || j >= arr[0].length) {
             return Integer.MAX_VALUE;
         }
 
-        if (memo[i][j] != -1) return memo[i][j];
+        // Base Case: Princess room
+        if (i == arr.length - 1 && j == arr[0].length - 1) {
+            return arr[i][j] < 0 ? -arr[i][j] + 1 : 1;
+        }
 
-        // Minimum HP needed after leaving room (i, j)
-        int minHealthNext = Math.min(
-            getMinHP(i + 1, j, dungeon), 
-            getMinHP(i, j + 1, dungeon)
-        );
+        // Return cached result
+        if (dp[i][j] != -1) {
+            return dp[i][j];
+        }
 
-        // Minimum HP needed before entering room (i, j)
-        int healthNeeded = minHealthNext - dungeon[i][j];
+        int down = dfs(i + 1, j, arr, dp);
+        int right = dfs(i, j + 1, arr, dp);
 
-        // Health can never drop to 0 or lower at any point
-        memo[i][j] = Math.max(1, healthNeeded);
-        
-        return memo[i][j];
+        int min = Math.min(down, right) - arr[i][j];
+
+        // Need at least 1 HP to stay alive
+        return dp[i][j] = min <= 0 ? 1 : min;
     }
 }
