@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Kapish-0x/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Kapish-0x/DSA/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Kapish-0x/DSA/tree/master/0494-target-sum) |
+| [0877-stone-game](https://github.com/Kapish-0x/DSA/tree/master/0877-stone-game) |
 | [0980-unique-paths-iii](https://github.com/Kapish-0x/DSA/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Kapish-0x/DSA/tree/master/0994-rotting-oranges) |
 | [1463-cherry-pickup-ii](https://github.com/Kapish-0x/DSA/tree/master/1463-cherry-pickup-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Kapish-0x/DSA/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Kapish-0x/DSA/tree/master/0494-target-sum) |
 | [0576-out-of-boundary-paths](https://github.com/Kapish-0x/DSA/tree/master/0576-out-of-boundary-paths) |
+| [0877-stone-game](https://github.com/Kapish-0x/DSA/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Kapish-0x/DSA/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/Kapish-0x/DSA/tree/master/1463-cherry-pickup-ii) |
 ## Prefix Sum
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kapish-0x/DSA/tree/master/0070-climbing-stairs) |
+| [0877-stone-game](https://github.com/Kapish-0x/DSA/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -174,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Kapish-0x/DSA/tree/master/0139-word-break) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Kapish-0x/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
