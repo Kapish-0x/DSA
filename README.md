@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Kapish-0x/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Kapish-0x/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Kapish-0x/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0473-matchsticks-to-square](https://github.com/Kapish-0x/DSA/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Kapish-0x/DSA/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Kapish-0x/DSA/tree/master/0526-beautiful-arrangement) |
 | [0877-stone-game](https://github.com/Kapish-0x/DSA/tree/master/0877-stone-game) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Kapish-0x/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Kapish-0x/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Kapish-0x/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0473-matchsticks-to-square](https://github.com/Kapish-0x/DSA/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Kapish-0x/DSA/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Kapish-0x/DSA/tree/master/0526-beautiful-arrangement) |
 | [0576-out-of-boundary-paths](https://github.com/Kapish-0x/DSA/tree/master/0576-out-of-boundary-paths) |
@@ -173,12 +175,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Kapish-0x/DSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Kapish-0x/DSA/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Kapish-0x/DSA/tree/master/0131-palindrome-partitioning) |
+| [0473-matchsticks-to-square](https://github.com/Kapish-0x/DSA/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Kapish-0x/DSA/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Kapish-0x/DSA/tree/master/0526-beautiful-arrangement) |
 | [0980-unique-paths-iii](https://github.com/Kapish-0x/DSA/tree/master/0980-unique-paths-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/Kapish-0x/DSA/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Kapish-0x/DSA/tree/master/0526-beautiful-arrangement) |
 | [0980-unique-paths-iii](https://github.com/Kapish-0x/DSA/tree/master/0980-unique-paths-iii) |
 ## Trie
@@ -192,5 +196,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/Kapish-0x/DSA/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Kapish-0x/DSA/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
