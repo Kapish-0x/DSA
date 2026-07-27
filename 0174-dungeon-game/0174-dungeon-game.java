@@ -1,3 +1,4 @@
+//TC --> O(mxn) 
 class Solution {
     int[][] memo;
 
@@ -17,7 +18,7 @@ class Solution {
 
         // Base Case: Reached Princess
         if (i == m - 1 && j == n - 1) {
-            return Math.max(1, 1 - dungeon[i][j]);
+            return Math.max(1, 1 - dungeon[i][j]); //if princess value is +ve and 1-(-ve) if the princess value is -ve.
         }
 
         // Out of bounds -> Return infinity so Math.min ignores this path
