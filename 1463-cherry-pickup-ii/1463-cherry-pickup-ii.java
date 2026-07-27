@@ -1,40 +1,44 @@
 class Solution {
-    int m, n;
-    int[][][] t = new int[71][71][71];
-    public int solve(int[][] grid, int r, int c1, int c2) {
-        if(r >= m) {
-            return 0; //no cherry as we are out of bound
-        }
-        if(t[r][c1][c2] != -1) {
-            return t[r][c1][c2];
-        }
-        int cherry = grid[r][c1]; //current pos cherry add r2 only if not the same cell
-        if(c1 != c2) { //if same cell add once else add R2 cherry too
-            cherry += grid[r][c2];
-        }
-        int ans = 0;
-        // both robots move independently each step -> each has 3 col choices (-1, 0, +1)
-        // so try all combinations: i for robot1's shift, j for robot2's shift -> 3*3 = 9 total moves per step
-        for(int i = -1; i <=1; ++i) { //r1
-            for(int j = -1; j <= 1; ++j) { //r2
-                int newRow = r+1;
-                int new_c1 = c1+i;
-                int new_c2 = c2+j;
-                if(new_c1 >= 0 && new_c1 < n && new_c2 >=0 && new_c2 < n) //safe column
-                    ans = Math.max(ans, solve(grid, newRow, new_c1, new_c2));
-            }
-        }
-        return t[r][c1][c2] = cherry + ans;
+    public int cherryPickup(int[][] grid) {
+        int rows = grid.length, cols = grid[0].length;
+        Integer[][][] memo = new Integer[rows][cols][cols];
+        return solve(grid, 0, 0, cols - 1, memo);
     }
 
-    public int cherryPickup(int[][] grid) {
-        m = grid.length;
-        n = grid[0].length;
-        for (int[][] layer : t) {
-            for (int[] row : layer) {
-                Arrays.fill(row, -1);
+    private int solve(int[][] grid, int i, int j1, int j2, Integer[][][] memo) {
+        int rows = grid.length, cols = grid[0].length;
+
+        // out of bounds check (this was buggy in your draft: `j < grid[0].length` should be `j >= grid[0].length`)
+        if (j1 < 0 || j1 >= cols || j2 < 0 || j2 >= cols) {
+            return 0;
+        }
+
+        if (memo[i][j1][j2] != null) {
+            return memo[i][j1][j2];
+        }
+
+        // cherries picked at this row
+        int cherries = grid[i][j1];
+        if (j1 != j2) {
+            cherries += grid[i][j2]; // don't double count if same cell
+        }
+
+        // if last row, no further moves
+        if (i == rows - 1) {
+            memo[i][j1][j2] = cherries;
+            return cherries;
+        }
+
+        int best = 0;
+        // try all 3x3 = 9 combinations of moves for both robots
+        for (int d1 = -1; d1 <= 1; d1++) {
+            for (int d2 = -1; d2 <= 1; d2++) {
+                best = Math.max(best, solve(grid, i + 1, j1 + d1, j2 + d2, memo));
             }
         }
-        return solve(grid, 0, 0, n-1); //row --> 0 r1 col --> (top left) r2 col --> n-1(top right)
+
+        cherries += best;
+        memo[i][j1][j2] = cherries;
+        return cherries;
     }
 }
