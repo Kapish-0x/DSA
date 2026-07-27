@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Kapish-0x/DSA/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Kapish-0x/DSA/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Kapish-0x/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Kapish-0x/DSA/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/Kapish-0x/DSA/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Kapish-0x/DSA/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Kapish-0x/DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Kapish-0x/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Kapish-0x/DSA/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/Kapish-0x/DSA/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/Kapish-0x/DSA/tree/master/0680-valid-palindrome-ii) |
 | [1143-longest-common-subsequence](https://github.com/Kapish-0x/DSA/tree/master/1143-longest-common-subsequence) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Kapish-0x/DSA/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/Kapish-0x/DSA/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/Kapish-0x/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Kapish-0x/DSA/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Kapish-0x/DSA/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Kapish-0x/DSA/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Kapish-0x/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Kapish-0x/DSA/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Kapish-0x/DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Kapish-0x/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Kapish-0x/DSA/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Kapish-0x/DSA/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Kapish-0x/DSA/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Kapish-0x/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kapish-0x/DSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Kapish-0x/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Kapish-0x/DSA/tree/master/0140-word-break-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -175,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Kapish-0x/DSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Kapish-0x/DSA/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Kapish-0x/DSA/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Kapish-0x/DSA/tree/master/0140-word-break-ii) |
 | [0473-matchsticks-to-square](https://github.com/Kapish-0x/DSA/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Kapish-0x/DSA/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Kapish-0x/DSA/tree/master/0526-beautiful-arrangement) |
@@ -189,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Kapish-0x/DSA/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Kapish-0x/DSA/tree/master/0140-word-break-ii) |
 ## Game Theory
 |  |
 | ------- |
