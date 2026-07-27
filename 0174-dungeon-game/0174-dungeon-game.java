@@ -1,36 +1,25 @@
-import java.util.Arrays;
-
 class Solution {
-    public int calculateMinimumHP(int[][] arr) {
-        int[][] dp = new int[arr.length][arr[0].length];
-        for (int[] row : dp) {
-            Arrays.fill(row, -1);
-        }
-        return dfs(0, 0, arr, dp);
-    }
+    public int calculateMinimumHP(int[][] dungeon) {
+        int m = dungeon.length, n = dungeon[0].length;
+        int[][] dp = new int[m][n];
 
-    public static int dfs(int i, int j, int[][] arr, int[][] dp) {
-        // Out-of-bounds -> Return MAX_VALUE so Math.min ignores this direction
-        if (i >= arr.length || j >= arr[0].length) {
-            return Integer.MAX_VALUE;
-        }
-
-        // Base Case: Princess room
-        if (i == arr.length - 1 && j == arr[0].length - 1) {
-            return arr[i][j] < 0 ? -arr[i][j] + 1 : 1;
-        }
-
-        // Return cached result
-        if (dp[i][j] != -1) {
-            return dp[i][j];
+        for (int i = m - 1; i >= 0; i--) {
+            for (int j = n - 1; j >= 0; j--) {
+                if (i == m - 1 && j == n - 1) {
+                    dp[i][j] = Math.max(1, 1 - dungeon[i][j]);
+                } else if (i == m - 1) {
+                    // last row: only option is to go right
+                    dp[i][j] = Math.max(1, dp[i][j+1] - dungeon[i][j]);
+                } else if (j == n - 1) {
+                    // last column: only option is to go down
+                    dp[i][j] = Math.max(1, dp[i+1][j] - dungeon[i][j]);
+                } else {
+                    int best = Math.min(dp[i+1][j], dp[i][j+1]);
+                    dp[i][j] = Math.max(1, best - dungeon[i][j]);
+                }
+            }
         }
 
-        int down = dfs(i + 1, j, arr, dp);
-        int right = dfs(i, j + 1, arr, dp);
-
-        int min = Math.min(down, right) - arr[i][j];
-
-        // Need at least 1 HP to stay alive
-        return dp[i][j] = min <= 0 ? 1 : min;
+        return dp[0][0];
     }
 }
