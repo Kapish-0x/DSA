@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Kapish-0x/DSA/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/Kapish-0x/DSA/tree/master/0242-valid-anagram) |
 | [0680-valid-palindrome-ii](https://github.com/Kapish-0x/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/Kapish-0x/DSA/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1143-longest-common-subsequence](https://github.com/Kapish-0x/DSA/tree/master/1143-longest-common-subsequence) |
 ## Sorting
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Kapish-0x/DSA/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Kapish-0x/DSA/tree/master/0526-beautiful-arrangement) |
 | [0877-stone-game](https://github.com/Kapish-0x/DSA/tree/master/0877-stone-game) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/Kapish-0x/DSA/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0980-unique-paths-iii](https://github.com/Kapish-0x/DSA/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Kapish-0x/DSA/tree/master/0994-rotting-oranges) |
 | [1463-cherry-pickup-ii](https://github.com/Kapish-0x/DSA/tree/master/1463-cherry-pickup-ii) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0576-out-of-boundary-paths](https://github.com/Kapish-0x/DSA/tree/master/0576-out-of-boundary-paths) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Kapish-0x/DSA/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0877-stone-game](https://github.com/Kapish-0x/DSA/tree/master/0877-stone-game) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/Kapish-0x/DSA/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1012-numbers-with-repeated-digits](https://github.com/Kapish-0x/DSA/tree/master/1012-numbers-with-repeated-digits) |
 | [1143-longest-common-subsequence](https://github.com/Kapish-0x/DSA/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/Kapish-0x/DSA/tree/master/1463-cherry-pickup-ii) |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Kapish-0x/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Kapish-0x/DSA/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Kapish-0x/DSA/tree/master/0493-reverse-pairs) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/Kapish-0x/DSA/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1631-path-with-minimum-effort](https://github.com/Kapish-0x/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Depth-First Search
 |  |
@@ -177,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kapish-0x/DSA/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/Kapish-0x/DSA/tree/master/0877-stone-game) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/Kapish-0x/DSA/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1012-numbers-with-repeated-digits](https://github.com/Kapish-0x/DSA/tree/master/1012-numbers-with-repeated-digits) |
 ## Memoization
 |  |
