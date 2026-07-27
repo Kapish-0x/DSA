@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Kapish-0x/DSA/tree/master/0526-beautiful-arrangement) |
 | [0576-out-of-boundary-paths](https://github.com/Kapish-0x/DSA/tree/master/0576-out-of-boundary-paths) |
 | [0877-stone-game](https://github.com/Kapish-0x/DSA/tree/master/0877-stone-game) |
+| [1012-numbers-with-repeated-digits](https://github.com/Kapish-0x/DSA/tree/master/1012-numbers-with-repeated-digits) |
 | [1143-longest-common-subsequence](https://github.com/Kapish-0x/DSA/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/Kapish-0x/DSA/tree/master/1463-cherry-pickup-ii) |
 ## Prefix Sum
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kapish-0x/DSA/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/Kapish-0x/DSA/tree/master/0877-stone-game) |
+| [1012-numbers-with-repeated-digits](https://github.com/Kapish-0x/DSA/tree/master/1012-numbers-with-repeated-digits) |
 ## Memoization
 |  |
 | ------- |
