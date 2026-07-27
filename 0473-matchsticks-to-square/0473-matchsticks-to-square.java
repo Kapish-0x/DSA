@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 class Solution {
     public boolean makesquare(int[] matchsticks) {
         if (matchsticks == null || matchsticks.length < 4) {
