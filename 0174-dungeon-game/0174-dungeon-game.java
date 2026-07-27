@@ -1,36 +1,46 @@
 import java.util.Arrays;
 
 class Solution {
-    public int calculateMinimumHP(int[][] arr) {
-        int[][] dp = new int[arr.length][arr[0].length];
-        for (int[] row : dp) {
+    int[][] memo;
+
+    public int calculateMinimumHP(int[][] dungeon) {
+        int m = dungeon.length;
+        int n = dungeon[0].length;
+        memo = new int[m][n];
+        for (int[] row : memo) {
             Arrays.fill(row, -1);
         }
-        return dfs(0, 0, arr, dp);
+        return getMinHP(0, 0, dungeon);
     }
 
-    public static int dfs(int i, int j, int[][] arr, int[][] dp) {
-        // Out-of-bounds -> Return MAX_VALUE so Math.min ignores this direction
-        if (i >= arr.length || j >= arr[0].length) {
+    private int getMinHP(int i, int j, int[][] dungeon) {
+        int m = dungeon.length;
+        int n = dungeon[0].length;
+
+        // Base Case: Reached Princess
+        if (i == m - 1 && j == n - 1) {
+            return Math.max(1, 1 - dungeon[i][j]);
+        }
+
+        // Out of bounds -> Return infinity so Math.min ignores this path
+        if (i >= m || j >= n) {
             return Integer.MAX_VALUE;
         }
 
-        // Base Case: Princess room
-        if (i == arr.length - 1 && j == arr[0].length - 1) {
-            return arr[i][j] < 0 ? -arr[i][j] + 1 : 1;
-        }
+        if (memo[i][j] != -1) return memo[i][j];
 
-        // Return cached result
-        if (dp[i][j] != -1) {
-            return dp[i][j];
-        }
+        // Minimum HP needed after leaving room (i, j)
+        int minHealthNext = Math.min(
+            getMinHP(i + 1, j, dungeon), 
+            getMinHP(i, j + 1, dungeon)
+        );
 
-        int down = dfs(i + 1, j, arr, dp);
-        int right = dfs(i, j + 1, arr, dp);
+        // Minimum HP needed before entering room (i, j)
+        int healthNeeded = minHealthNext - dungeon[i][j];
 
-        int min = Math.min(down, right) - arr[i][j];
-
-        // Need at least 1 HP to stay alive
-        return dp[i][j] = min <= 0 ? 1 : min;
+        // Health can never drop to 0 or lower at any point
+        memo[i][j] = Math.max(1, healthNeeded);
+        
+        return memo[i][j];
     }
 }
