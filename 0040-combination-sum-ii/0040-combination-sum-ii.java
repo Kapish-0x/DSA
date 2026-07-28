@@ -8,7 +8,7 @@ class Solution {
         solve(candidates, 0, target, temp);
         return res;
     }
-    public int solve(int[] candidates, int i, int target, List<Integer> temp) {
+    public void solve(int[] candidates, int i, int target, List<Integer> temp) {
         if(target == 0) {
             res.add(new ArrayList<>(temp));
             return;
@@ -16,8 +16,10 @@ class Solution {
         if(target < 0 || i >= n) return;
         temp.add(candidates[i]);
         solve(candidates, i+1, target-candidates[i], temp);
-        while(i+1 < n && candidates[i] != candidates[i+1])
+        while(i+1 < n && candidates[i] == candidates[i+1]) {
+            i++;
+        }
         temp.remove(temp.size() - 1);
-        solve(canidates, i+1, target, temp);
+        solve(candidates, i+1, target, temp);
     }
 }
