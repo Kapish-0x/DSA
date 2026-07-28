@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Kapish-0x/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Kapish-0x/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Kapish-0x/DSA/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/Kapish-0x/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Kapish-0x/DSA/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/Kapish-0x/DSA/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/Kapish-0x/DSA/tree/master/0134-gas-station) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Kapish-0x/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kapish-0x/DSA/tree/master/0040-combination-sum-ii) |
 | [0052-n-queens-ii](https://github.com/Kapish-0x/DSA/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/Kapish-0x/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Kapish-0x/DSA/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Kapish-0x/DSA/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Kapish-0x/DSA/tree/master/0131-palindrome-partitioning) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Kapish-0x/DSA/tree/master/0078-subsets) |
 | [0473-matchsticks-to-square](https://github.com/Kapish-0x/DSA/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/Kapish-0x/DSA/tree/master/0526-beautiful-arrangement) |
 | [0980-unique-paths-iii](https://github.com/Kapish-0x/DSA/tree/master/0980-unique-paths-iii) |
