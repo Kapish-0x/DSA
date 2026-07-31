@@ -1,51 +1,37 @@
 class Solution {
+    
     public int orangesRotting(int[][] grid) {
-        int rows = grid.length;
-        int cols = grid[0].length;
-        Queue<int[]> queue = new LinkedList<>();
-        int freshCount = 0;
+        if(grid == null || grid.length == 0) return -1;
         
-        // find all initially rotten oranges and count fresh ones
-        for (int r = 0; r < rows; r++) {
-            for (int c = 0; c < cols; c++) {
-                if (grid[r][c] == 2) {
-                    queue.offer(new int[]{r, c});
-                } else if (grid[r][c] == 1) {
-                    freshCount++;
-                }
+        for(int i=0; i<grid.length; i++) {
+            for(int j=0; j<grid[0].length; j++) {
+                if(grid[i][j] == 2) rotAdjacent(grid, i, j, 2);
             }
         }
         
-        if (freshCount == 0) return 0; // nothing to rot
-        
-        int minutes = 0;
-        int[][] directions = {{0,1},{0,-1},{1,0},{-1,0}};
-        
-        while (!queue.isEmpty() && freshCount > 0) {
-            int size = queue.size();
-            boolean rottedThisRound = false;
-            
-            for (int i = 0; i < size; i++) {
-                int[] curr = queue.poll();
-                int r = curr[0], c = curr[1];
-                
-                for (int[] dir : directions) {
-                    int nr = r + dir[0];
-                    int nc = c + dir[1];
-                    
-                    if (nr < 0 || nr >= rows || nc < 0 || nc >= cols) continue;
-                    if (grid[nr][nc] != 1) continue; // not fresh, skip
-                    
-                    grid[nr][nc] = 2; // rot it
-                    freshCount--;
-                    queue.offer(new int[]{nr, nc});
-                    rottedThisRound = true;
-                }
+        int minutes = 2;
+        for(int[] row : grid) {
+            for(int cell : row) {
+                if(cell == 1) return -1;
+                minutes = Math.max(minutes, cell);
             }
-            
-            if (rottedThisRound) minutes++;
         }
         
-        return freshCount == 0 ? minutes : -1;
+        return minutes - 2;
+    }
+    
+    private void rotAdjacent(int[][] grid, int i, int j, int minutes) {
+        if(i < 0 || i >= grid.length /* out of bounds */
+          || j < 0 || j >= grid[0].length /* out of bounds */
+          || grid[i][j] == 0 /* empty cell */
+          || (1 < grid[i][j] && grid[i][j] < minutes) /* this orange is already rotten by another rotten orange */
+          ) return;
+        else {
+            grid[i][j] = minutes;
+            rotAdjacent(grid, i - 1, j, minutes + 1);
+            rotAdjacent(grid, i + 1, j, minutes + 1);
+            rotAdjacent(grid, i, j - 1, minutes + 1);
+            rotAdjacent(grid, i, j + 1, minutes + 1);
+        }
     }
 }
