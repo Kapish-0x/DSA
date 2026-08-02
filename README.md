@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Kapish-0x/DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Kapish-0x/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Kapish-0x/DSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Kapish-0x/DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Kapish-0x/DSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Kapish-0x/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Kapish-0x/DSA/tree/master/0733-flood-fill) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Kapish-0x/DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Kapish-0x/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Kapish-0x/DSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Kapish-0x/DSA/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Kapish-0x/DSA/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Kapish-0x/DSA/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Kapish-0x/DSA/tree/master/0695-max-area-of-island) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Kapish-0x/DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Kapish-0x/DSA/tree/master/0547-number-of-provinces) |
 ## Number Theory
 |  |
@@ -303,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Kapish-0x/DSA/tree/master/0509-fibonacci-number) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Kapish-0x/DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
