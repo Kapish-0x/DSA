@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Kapish-0x/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Kapish-0x/DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Kapish-0x/DSA/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Kapish-0x/DSA/tree/master/0802-find-eventual-safe-states) |
 | [1631-path-with-minimum-effort](https://github.com/Kapish-0x/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Kapish-0x/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Kapish-0x/DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Kapish-0x/DSA/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Kapish-0x/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Kapish-0x/DSA/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/Kapish-0x/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Kapish-0x/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Kapish-0x/DSA/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/Kapish-0x/DSA/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Kapish-0x/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Number Theory
 |  |
 | ------- |
@@ -322,4 +325,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Kapish-0x/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kapish-0x/DSA/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/Kapish-0x/DSA/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
