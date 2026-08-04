@@ -1,17 +1,14 @@
 class Solution {
+    int memo[] = new int[101];
+    public int solve(int[] nums, int i) {
+        if(i >= nums.length) return 0;
+        if(memo[i] != -1) return memo[i];
+        int steal = nums[i] + solve(nums, i+2);
+        int skip = solve(nums, i+1);
+        return memo[i] = Math.max(steal, skip);
+    }
     public int rob(int[] nums) {
-        int n = nums.length;
-        if (n == 1) return nums[0];
-        
-        int prev2 = 0;           // best up to house i-2 (before house 0, so 0)
-        int prev1 = nums[0];     // best up to house 0
-        
-        for (int i = 1; i < n; i++) {
-            int curr = Math.max(prev1, prev2 + nums[i]);
-            prev2 = prev1;
-            prev1 = curr;
-        }
-        
-        return prev1;
+        Arrays.fill(memo, -1);
+        return solve(nums, 0);
     }
 }
