@@ -328,4 +328,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Kapish-0x/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kapish-0x/DSA/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Kapish-0x/DSA/tree/master/0802-find-eventual-safe-states) |
+## Prime Factorization
+|  |
+| ------- |
+| [1998-gcd-sort-of-an-array](https://github.com/Kapish-0x/DSA/tree/master/1998-gcd-sort-of-an-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1998-gcd-sort-of-an-array](https://github.com/Kapish-0x/DSA/tree/master/1998-gcd-sort-of-an-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1998-gcd-sort-of-an-array](https://github.com/Kapish-0x/DSA/tree/master/1998-gcd-sort-of-an-array) |
 <!---LeetCode Topics End-->
