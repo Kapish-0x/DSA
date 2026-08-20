@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Kapish-0x/DSA/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Kapish-0x/DSA/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Kapish-0x/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/Kapish-0x/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Kapish-0x/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Kapish-0x/DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Kapish-0x/DSA/tree/master/0213-house-robber-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Kapish-0x/DSA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Kapish-0x/DSA/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Kapish-0x/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/Kapish-0x/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Kapish-0x/DSA/tree/master/0202-happy-number) |
 | [0680-valid-palindrome-ii](https://github.com/Kapish-0x/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Kapish-0x/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kapish-0x/DSA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Kapish-0x/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Kapish-0x/DSA/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/Kapish-0x/DSA/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Kapish-0x/DSA/tree/master/0877-stone-game) |
