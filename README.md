@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Kapish-0x/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Kapish-0x/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Kapish-0x/DSA/tree/master/0242-valid-anagram) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Kapish-0x/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1998-gcd-sort-of-an-array](https://github.com/Kapish-0x/DSA/tree/master/1998-gcd-sort-of-an-array) |
 ## Array
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Kapish-0x/DSA/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/Kapish-0x/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/Kapish-0x/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Kapish-0x/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1998-gcd-sort-of-an-array](https://github.com/Kapish-0x/DSA/tree/master/1998-gcd-sort-of-an-array) |
 ## Sliding Window
 |  |
@@ -370,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Kapish-0x/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Kapish-0x/DSA/tree/master/0202-happy-number) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/Kapish-0x/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
