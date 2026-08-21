@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Kapish-0x/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Kapish-0x/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Kapish-0x/DSA/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kapish-0x/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Kapish-0x/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1998-gcd-sort-of-an-array](https://github.com/Kapish-0x/DSA/tree/master/1998-gcd-sort-of-an-array) |
 ## Array
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Kapish-0x/DSA/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Kapish-0x/DSA/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Kapish-0x/DSA/tree/master/0526-beautiful-arrangement) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kapish-0x/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/Kapish-0x/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Kapish-0x/DSA/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/Kapish-0x/DSA/tree/master/0877-stone-game) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Kapish-0x/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Kapish-0x/DSA/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/Kapish-0x/DSA/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Kapish-0x/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kapish-0x/DSA/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Kapish-0x/DSA/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1012-numbers-with-repeated-digits](https://github.com/Kapish-0x/DSA/tree/master/1012-numbers-with-repeated-digits) |
