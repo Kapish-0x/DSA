@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Kapish-0x/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Kapish-0x/DSA/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/Kapish-0x/DSA/tree/master/1463-cherry-pickup-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/Kapish-0x/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1631-path-with-minimum-effort](https://github.com/Kapish-0x/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Kapish-0x/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1998-gcd-sort-of-an-array](https://github.com/Kapish-0x/DSA/tree/master/1998-gcd-sort-of-an-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kapish-0x/DSA/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/Kapish-0x/DSA/tree/master/1140-stone-game-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/Kapish-0x/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
