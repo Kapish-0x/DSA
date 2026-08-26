@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Kapish-0x/DSA/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kapish-0x/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Kapish-0x/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0278-first-bad-version](https://github.com/Kapish-0x/DSA/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Kapish-0x/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Kapish-0x/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Kapish-0x/DSA/tree/master/0327-count-of-range-sum) |
@@ -396,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Kapish-0x/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Kapish-0x/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
