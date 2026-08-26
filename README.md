@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Kapish-0x/DSA/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Kapish-0x/DSA/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Kapish-0x/DSA/tree/master/0733-flood-fill) |
+| [0875-koko-eating-bananas](https://github.com/Kapish-0x/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Kapish-0x/DSA/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Kapish-0x/DSA/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0980-unique-paths-iii](https://github.com/Kapish-0x/DSA/tree/master/0980-unique-paths-iii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/Kapish-0x/DSA/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Kapish-0x/DSA/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Kapish-0x/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Kapish-0x/DSA/tree/master/0875-koko-eating-bananas) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Kapish-0x/DSA/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1631-path-with-minimum-effort](https://github.com/Kapish-0x/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Depth-First Search
