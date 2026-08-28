@@ -7,7 +7,7 @@ class Solution {
                 st.push(c);
             } else {
                 if(st.isEmpty()) {
-                    return false;   //if its a closing br
+                    return false;   //if its a closing bracket but the stack is empty return false as its invalid
                 }
                 char top = st.pop();
                 if(c == ')' && top != '(') return false;
