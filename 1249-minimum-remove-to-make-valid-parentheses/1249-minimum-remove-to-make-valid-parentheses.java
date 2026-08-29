@@ -1,42 +1,37 @@
 class Solution {
     public String minRemoveToMakeValid(String s) {
-        // Pass 1: Remove unmatched ')'
-        StringBuilder firstPass = new StringBuilder();
-        int openCount = 0;
+        char[] arr = s.toCharArray();
+        int openParenthesesCount = 0;
 
-        for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            if (c == '(') {
-                openCount++;
-                firstPass.append(c);
-            } else if (c == ')') {
-                if (openCount > 0) {
-                    openCount--; // Matched with an open '('
-                    firstPass.append(c);
+        // First pass: mark excess closing parentheses with '*'
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] == '(') {
+                openParenthesesCount++;
+            } else if (arr[i] == ')') {
+                if (openParenthesesCount == 0) {
+                    arr[i] = '*'; // Excess ')' found
+                } else {
+                    openParenthesesCount--;
                 }
-                // If openCount == 0, skip this unmatched ')'
-            } else {
-                firstPass.append(c); // Lowercase letters
             }
         }
 
-        // If openCount == 0, all '(' were matched!
-        if (openCount == 0) {
-            return firstPass.toString();
-        }
-
-        // Pass 2: Remove unmatched '(' from right to left
-        StringBuilder result = new StringBuilder();
-        for (int i = firstPass.length() - 1; i >= 0; i--) {
-            char c = firstPass.charAt(i);
-            if (c == '(' && openCount > 0) {
-                openCount--; // Skip this unmatched '('
-            } else {
-                result.append(c);
+        // Second pass: mark excess opening parentheses from the end
+        for (int i = arr.length - 1; i >= 0; i--) {
+            if (openParenthesesCount > 0 && arr[i] == '(') {
+                arr[i] = '*'; // Excess '(' found
+                openParenthesesCount--;
             }
         }
 
-        // Since we scanned right-to-left in Pass 2, reverse to fix orientation
-        return result.reverse().toString();
+        // Third pass: compact valid characters in-place
+        int p = 0;
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] != '*') {
+                arr[p++] = arr[i];
+            }
+        }
+
+        return new String(arr, 0, p);
     }
 }
