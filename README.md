@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Kapish-0x/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Kapish-0x/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Kapish-0x/DSA/tree/master/0242-valid-anagram) |
+| [1048-longest-string-chain](https://github.com/Kapish-0x/DSA/tree/master/1048-longest-string-chain) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Kapish-0x/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Kapish-0x/DSA/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kapish-0x/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1048-longest-string-chain](https://github.com/Kapish-0x/DSA/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Kapish-0x/DSA/tree/master/1143-longest-common-subsequence) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Kapish-0x/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Sorting
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Kapish-0x/DSA/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kapish-0x/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kapish-0x/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [1048-longest-string-chain](https://github.com/Kapish-0x/DSA/tree/master/1048-longest-string-chain) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Kapish-0x/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1998-gcd-sort-of-an-array](https://github.com/Kapish-0x/DSA/tree/master/1998-gcd-sort-of-an-array) |
 ## Array
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Kapish-0x/DSA/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/Kapish-0x/DSA/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Kapish-0x/DSA/tree/master/1046-last-stone-weight) |
+| [1048-longest-string-chain](https://github.com/Kapish-0x/DSA/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/Kapish-0x/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Kapish-0x/DSA/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/Kapish-0x/DSA/tree/master/1463-cherry-pickup-ii) |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Kapish-0x/DSA/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Kapish-0x/DSA/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1012-numbers-with-repeated-digits](https://github.com/Kapish-0x/DSA/tree/master/1012-numbers-with-repeated-digits) |
+| [1048-longest-string-chain](https://github.com/Kapish-0x/DSA/tree/master/1048-longest-string-chain) |
 | [1140-stone-game-ii](https://github.com/Kapish-0x/DSA/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Kapish-0x/DSA/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Kapish-0x/DSA/tree/master/1406-stone-game-iii) |
@@ -182,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Kapish-0x/DSA/tree/master/0202-happy-number) |
 | [0680-valid-palindrome-ii](https://github.com/Kapish-0x/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Kapish-0x/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1048-longest-string-chain](https://github.com/Kapish-0x/DSA/tree/master/1048-longest-string-chain) |
 ## Greedy
 |  |
 | ------- |
