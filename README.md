@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Kapish-0x/DSA/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Kapish-0x/DSA/tree/master/1143-longest-common-subsequence) |
 | [1406-stone-game-iii](https://github.com/Kapish-0x/DSA/tree/master/1406-stone-game-iii) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Kapish-0x/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1463-cherry-pickup-ii](https://github.com/Kapish-0x/DSA/tree/master/1463-cherry-pickup-ii) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Kapish-0x/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Prefix Sum
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Kapish-0x/DSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Kapish-0x/DSA/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/Kapish-0x/DSA/tree/master/1140-stone-game-ii) |
+| [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Kapish-0x/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1480-running-sum-of-1d-array](https://github.com/Kapish-0x/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
