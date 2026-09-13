@@ -25,20 +25,45 @@
 // }
 
 //Bottom-up O(n^2)
+// class Solution {
+//     public int lengthOfLIS(int[] nums) {
+//         int n = nums.length;
+//         int[] dp = new int[n];
+//         Arrays.fill(dp, 1); //every element alone is a subsequence of length 1
+//         int maxLen = 1;
+//         for(int i = 1; i < n; i++) {
+//             for(int j = 0; j < i; j++) {
+//                 if(nums[j] < nums[i]) {
+//                     dp[i] = Math.max(dp[i], dp[j]+1);
+//                 }
+//             }
+//             maxLen = Math.max(maxLen, dp[i]);
+//         }
+//         return maxLen;
+//     }
+// }
+
+//Patience Sorting O(nlogn)
 class Solution {
     public int lengthOfLIS(int[] nums) {
-        int n = nums.length;
-        int[] dp = new int[n];
-        Arrays.fill(dp, 1); //every element alone is a subsequence of length 1
-        int maxLen = 1;
-        for(int i = 1; i < n; i++) {
-            for(int j = 0; j < i; j++) {
-                if(nums[j] < nums[i]) {
-                    dp[i] = Math.max(dp[i], dp[j]+1);
+        if (nums == null || nums.length == 0) return 0;
+        int[] tails = new int[nums.length];
+        int size = 0;
+        for (int x : nums) {
+            int left = 0, right = size;
+            while (left < right) {
+                int mid = left + (right - left) / 2;
+                if (tails[mid] < x) {
+                    left = mid + 1;
+                } else {
+                    right = mid;
                 }
             }
-            maxLen = Math.max(maxLen, dp[i]);
+            tails[left] = x;
+            if (left == size) {
+                size++;
+            }
         }
-        return maxLen;
+        return size;
     }
 }
