@@ -1,14 +1,33 @@
+//Sorting O(N log N)
+// class Solution {
+//     public boolean isAnagram(String s, String t) {
+//         if(s.length() != t.length()) {
+//             return false;
+//         }
+//         char[] sChars = s.toCharArray();
+//         char[] tChars = t.toCharArray();
+
+//         Arrays.sort(sChars);
+//         Arrays.sort(tChars);
+
+//         return Arrays.equals(sChars, tChars);
+//     }
+// }
+
+//Frequeny count O(N)
 class Solution {
     public boolean isAnagram(String s, String t) {
         if(s.length() != t.length()) {
             return false;
         }
-        char[] sChars = s.toCharArray();
-        char[] tChars = t.toCharArray();
-
-        Arrays.sort(sChars);
-        Arrays.sort(tChars);
-
-        return Arrays.equals(sChars, tChars);
+        int[] count = new int[26];
+        for(int i= 0; i < s.length(); ++i) {
+            count[s.charAt(i) - 'a']++;
+            count[t.charAt(i) - 'a']--;
+        }
+        for(int c : count) {
+            if(c != 0) return false;
+        }
+        return true;
     }
 }
