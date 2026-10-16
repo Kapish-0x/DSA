@@ -27,11 +27,11 @@ class Solution {
         if (k <= 1) return 0;
         int n = nums.length;
         int count = 0;
-        long prod = 1L; // Use long to prevent potential integer overflow during multiplication
+        int prod = 1;
         int left = 0;
         for(int right = 0; right < n; ++right) {
             prod *= nums[right];
-            while(prod >= k && left <= right) { //shrink size when the prod is >= k
+            while(prod >= k) { //shrink size when the prod is >= k
                 prod /= nums[left];
                 left++;
             }
