@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Kapish-0x/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/Kapish-0x/DSA/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Kapish-0x/DSA/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Kapish-0x/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Kapish-0x/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Kapish-0x/DSA/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/Kapish-0x/DSA/tree/master/0875-koko-eating-bananas) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kapish-0x/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0713-subarray-product-less-than-k](https://github.com/Kapish-0x/DSA/tree/master/0713-subarray-product-less-than-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kapish-0x/DSA/tree/master/0238-product-of-array-except-self) |
+| [0713-subarray-product-less-than-k](https://github.com/Kapish-0x/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Kapish-0x/DSA/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/Kapish-0x/DSA/tree/master/1140-stone-game-ii) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Kapish-0x/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/Kapish-0x/DSA/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Kapish-0x/DSA/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Kapish-0x/DSA/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Kapish-0x/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Kapish-0x/DSA/tree/master/0875-koko-eating-bananas) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Kapish-0x/DSA/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1631-path-with-minimum-effort](https://github.com/Kapish-0x/DSA/tree/master/1631-path-with-minimum-effort) |
