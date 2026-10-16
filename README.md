@@ -444,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kapish-0x/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Kapish-0x/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0155-min-stack](https://github.com/Kapish-0x/DSA/tree/master/0155-min-stack) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kapish-0x/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Kapish-0x/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Bracket Sequences
@@ -461,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Kapish-0x/DSA/tree/master/1143-longest-common-subsequence) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Kapish-0x/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
