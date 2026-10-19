@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Kapish-0x/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Kapish-0x/DSA/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Kapish-0x/DSA/tree/master/0140-word-break-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/Kapish-0x/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Kapish-0x/DSA/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Kapish-0x/DSA/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Kapish-0x/DSA/tree/master/0392-is-subsequence) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Kapish-0x/DSA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Kapish-0x/DSA/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Kapish-0x/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/Kapish-0x/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Kapish-0x/DSA/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Kapish-0x/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Kapish-0x/DSA/tree/master/0202-happy-number) |
