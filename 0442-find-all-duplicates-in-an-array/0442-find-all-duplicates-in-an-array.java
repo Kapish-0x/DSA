@@ -1,3 +1,4 @@
+//TC -> O(N)
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
         List<Integer> res = new ArrayList<>();
