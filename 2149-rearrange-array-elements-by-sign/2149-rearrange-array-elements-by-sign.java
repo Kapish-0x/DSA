@@ -1,3 +1,4 @@
+//TC -> O(N)
 class Solution {
     public int[] rearrangeArray(int[] nums) {
         int n = nums.length;
