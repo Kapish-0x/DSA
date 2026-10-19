@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Kapish-0x/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Kapish-0x/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Kapish-0x/DSA/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Kapish-0x/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1048-longest-string-chain](https://github.com/Kapish-0x/DSA/tree/master/1048-longest-string-chain) |
 | [2540-minimum-common-value](https://github.com/Kapish-0x/DSA/tree/master/2540-minimum-common-value) |
 ## String
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Kapish-0x/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Kapish-0x/DSA/tree/master/0242-valid-anagram) |
 | [0368-largest-divisible-subset](https://github.com/Kapish-0x/DSA/tree/master/0368-largest-divisible-subset) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Kapish-0x/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kapish-0x/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kapish-0x/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/Kapish-0x/DSA/tree/master/1048-longest-string-chain) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Kapish-0x/DSA/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/Kapish-0x/DSA/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Kapish-0x/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Kapish-0x/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/Kapish-0x/DSA/tree/master/0473-matchsticks-to-square) |
 | [0493-reverse-pairs](https://github.com/Kapish-0x/DSA/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Kapish-0x/DSA/tree/master/0494-target-sum) |
