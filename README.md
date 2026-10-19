@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Kapish-0x/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Kapish-0x/DSA/tree/master/0242-valid-anagram) |
 | [1048-longest-string-chain](https://github.com/Kapish-0x/DSA/tree/master/1048-longest-string-chain) |
+| [2540-minimum-common-value](https://github.com/Kapish-0x/DSA/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Kapish-0x/DSA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Kapish-0x/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1998-gcd-sort-of-an-array](https://github.com/Kapish-0x/DSA/tree/master/1998-gcd-sort-of-an-array) |
+| [2540-minimum-common-value](https://github.com/Kapish-0x/DSA/tree/master/2540-minimum-common-value) |
 ## Sliding Window
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Kapish-0x/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/Kapish-0x/DSA/tree/master/1048-longest-string-chain) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Kapish-0x/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2540-minimum-common-value](https://github.com/Kapish-0x/DSA/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
 | ------- |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Kapish-0x/DSA/tree/master/0875-koko-eating-bananas) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Kapish-0x/DSA/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1631-path-with-minimum-effort](https://github.com/Kapish-0x/DSA/tree/master/1631-path-with-minimum-effort) |
+| [2540-minimum-common-value](https://github.com/Kapish-0x/DSA/tree/master/2540-minimum-common-value) |
 ## Depth-First Search
 |  |
 | ------- |
