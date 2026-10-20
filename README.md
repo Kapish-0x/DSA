@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Kapish-0x/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Kapish-0x/DSA/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kapish-0x/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Kapish-0x/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1048-longest-string-chain](https://github.com/Kapish-0x/DSA/tree/master/1048-longest-string-chain) |
 | [2540-minimum-common-value](https://github.com/Kapish-0x/DSA/tree/master/2540-minimum-common-value) |
 ## String
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Kapish-0x/DSA/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Kapish-0x/DSA/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Kapish-0x/DSA/tree/master/0526-beautiful-arrangement) |
+| [0560-subarray-sum-equals-k](https://github.com/Kapish-0x/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kapish-0x/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kapish-0x/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0695-max-area-of-island](https://github.com/Kapish-0x/DSA/tree/master/0695-max-area-of-island) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kapish-0x/DSA/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Kapish-0x/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Kapish-0x/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Kapish-0x/DSA/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/Kapish-0x/DSA/tree/master/1140-stone-game-ii) |
