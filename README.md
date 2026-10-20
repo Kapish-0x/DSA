@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Kapish-0x/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1048-longest-string-chain](https://github.com/Kapish-0x/DSA/tree/master/1048-longest-string-chain) |
 | [1143-longest-common-subsequence](https://github.com/Kapish-0x/DSA/tree/master/1143-longest-common-subsequence) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Kapish-0x/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Kapish-0x/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Kapish-0x/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sorting
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kapish-0x/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/Kapish-0x/DSA/tree/master/0713-subarray-product-less-than-k) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Kapish-0x/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Kapish-0x/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Kapish-0x/DSA/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/Kapish-0x/DSA/tree/master/1140-stone-game-ii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Kapish-0x/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/Kapish-0x/DSA/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1480-running-sum-of-1d-array](https://github.com/Kapish-0x/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Kapish-0x/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/Kapish-0x/DSA/tree/master/0875-koko-eating-bananas) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Kapish-0x/DSA/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Kapish-0x/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1631-path-with-minimum-effort](https://github.com/Kapish-0x/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2540-minimum-common-value](https://github.com/Kapish-0x/DSA/tree/master/2540-minimum-common-value) |
 ## Depth-First Search
