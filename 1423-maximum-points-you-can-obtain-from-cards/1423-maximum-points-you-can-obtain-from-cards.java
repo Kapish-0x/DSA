@@ -1,17 +1,33 @@
-//TC -> O(K)
+//TC -> O(N)
 class Solution {
     public int maxScore(int[] cardPoints, int k) {
         int n = cardPoints.length;
-        int sum = 0;
-        for(int i = 0; i < k; ++i) {
-            sum += cardPoints[i];
+        int totalSum = 0;
+        
+        // Find total sum of all cards
+        for (int point : cardPoints) {
+            totalSum += point;
         }
-        int max = sum;
-        for(int i = 0; i < k; ++i) {
-            sum -= cardPoints[k - 1 - i]; //remove left card
-            sum += cardPoints[n - 1 - i]; //take right card
-            max = Math.max(max, sum);
+        
+        // If k equals the number of cards, we take all of them
+        if (k == n) return totalSum;
+        
+        int windowSize = n - k;
+        int currentWindowSum = 0;
+        
+        // Compute sum of the first window of size (n - k)
+        for (int i = 0; i < windowSize; i++) {
+            currentWindowSum += cardPoints[i];
         }
-        return max;
+        
+        int minWindowSum = currentWindowSum;
+        
+        // Slide the window across the rest of the array
+        for (int i = windowSize; i < n; i++) {
+            currentWindowSum += cardPoints[i] - cardPoints[i - windowSize];
+            minWindowSum = Math.min(minWindowSum, currentWindowSum);
+        }
+        
+        return totalSum - minWindowSum;
     }
 }
