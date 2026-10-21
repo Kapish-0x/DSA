@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Kapish-0x/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kapish-0x/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1048-longest-string-chain](https://github.com/Kapish-0x/DSA/tree/master/1048-longest-string-chain) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kapish-0x/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2540-minimum-common-value](https://github.com/Kapish-0x/DSA/tree/master/2540-minimum-common-value) |
 ## String
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Kapish-0x/DSA/tree/master/1143-longest-common-subsequence) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Kapish-0x/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Kapish-0x/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kapish-0x/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Kapish-0x/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Sorting
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kapish-0x/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/Kapish-0x/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Kapish-0x/DSA/tree/master/1208-get-equal-substrings-within-budget) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kapish-0x/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
