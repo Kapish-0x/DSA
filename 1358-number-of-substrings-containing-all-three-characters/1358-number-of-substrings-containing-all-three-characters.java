@@ -1,3 +1,4 @@
+//TC -> O(N)
 class Solution {
     public int numberOfSubstrings(String s) {
         int[] count = new int[3];
