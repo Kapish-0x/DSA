@@ -1,40 +1,44 @@
 class Solution {
     public int countCompleteSubarrays(int[] nums) {
-        int n = nums.length;
-
-        // Step 1: find the distinct elements of the whole array
-        Set<Integer> set = new HashSet<>();
-        for (int x : nums) set.add(x);
-        int total = set.size();
-
+        // Step 1: Find total distinct elements in the whole array
+        HashSet<Integer> set = new HashSet<>();
+        for (int num : nums) {
+            set.add(num);
+        }
+        int totalDistinct = set.size();
+        
+        // Step 2: Set up the sliding window and frequency tracker
+        int[] freq = new int[2001];
+        int currentDistinct = 0;
         int res = 0;
-
-        // Step 2: try every starting index i
-        for (int i = 0; i < n; i++) {
-
-            // count array for distinct elements, filled with 0s
-            Map<Integer, Integer> count = new HashMap<>();
-            for (int x : set) count.put(x, 0);
-
-            // Step 3: extend the subarray to the right
-            for (int j = i; j < n; j++) {
-                count.put(nums[j], count.get(nums[j]) + 1);
-
-                // check if ALL distinct elements have count > 0
-                boolean complete = true;
-                for (int c : count.values()) {
-                    if (c == 0) {
-                        complete = false;
-                        break;
-                    }
+        int left = 0;
+        
+        // Step 3: Expand the window with 'right'
+        for (int right = 0; right < nums.length; right++) {
+            int val = nums[right];
+            
+            // If it's a new unique element for our current window, increment our tracker
+            if (freq[val] == 0) {
+                currentDistinct++;
+            }
+            freq[val]++;
+            
+            // Step 4: Shrink the window from the left as long as it's valid
+            while (currentDistinct == totalDistinct) {
+                // All subarrays starting from 'left' up to 'right' and extending 
+                // all the way to the end of the array (nums.length) are complete!
+                res += nums.length - right;
+                
+                // Remove the left element to try and find smaller valid windows
+                int leftVal = nums[left];
+                freq[leftVal]--;
+                if (freq[leftVal] == 0) {
+                    currentDistinct--;
                 }
-
-                if (complete) {
-                    res += n - j;   // all longer subarrays from i also work
-                    break;          // no need to extend j further for this i
-                }
+                left++;
             }
         }
+        
         return res;
     }
 }
