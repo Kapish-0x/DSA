@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Kapish-0x/DSA/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Kapish-0x/DSA/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Kapish-0x/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/Kapish-0x/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Kapish-0x/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Kapish-0x/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1048-longest-string-chain](https://github.com/Kapish-0x/DSA/tree/master/1048-longest-string-chain) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Kapish-0x/DSA/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Kapish-0x/DSA/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/Kapish-0x/DSA/tree/master/0498-diagonal-traverse) |
+| [0523-continuous-subarray-sum](https://github.com/Kapish-0x/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0526-beautiful-arrangement](https://github.com/Kapish-0x/DSA/tree/master/0526-beautiful-arrangement) |
 | [0560-subarray-sum-equals-k](https://github.com/Kapish-0x/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kapish-0x/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kapish-0x/DSA/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/Kapish-0x/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Kapish-0x/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Kapish-0x/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Kapish-0x/DSA/tree/master/0724-find-pivot-index) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Kapish-0x/DSA/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/Kapish-0x/DSA/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/Kapish-0x/DSA/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/Kapish-0x/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Kapish-0x/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Kapish-0x/DSA/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/Kapish-0x/DSA/tree/master/0902-numbers-at-most-n-given-digit-set) |
@@ -532,4 +536,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Kapish-0x/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Kapish-0x/DSA/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
