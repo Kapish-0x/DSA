@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Kapish-0x/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Kapish-0x/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Kapish-0x/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Kapish-0x/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Kapish-0x/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Kapish-0x/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Kapish-0x/DSA/tree/master/2540-minimum-common-value) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Kapish-0x/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Kapish-0x/DSA/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Kapish-0x/DSA/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Sliding Window
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Kapish-0x/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Kapish-0x/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Kapish-0x/DSA/tree/master/1732-find-the-highest-altitude) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Kapish-0x/DSA/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Two Pointers
 |  |
 | ------- |
