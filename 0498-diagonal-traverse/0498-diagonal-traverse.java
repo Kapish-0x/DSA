@@ -1,32 +1,26 @@
 class Solution {
     public int[] findDiagonalOrder(int[][] mat) {
         int m = mat.length, n = mat[0].length;
-        int[] res = new int[m * n];
-        int row = 0, col = 0;
-        boolean up = true;
-        for (int k = 0; k < m * n; k++) {
-            res[k] = mat[row][col];
-            if (up) {
-                if (col == n - 1) {        // hit right wall: go down, flip
-                    row++;
-                    up = false;
-                } else if (row == 0) {     // hit top wall: go right, flip
-                    col++;
-                    up = false;
-                } else {                   // normal up-right move
-                    row--;
-                    col++;
+        List<List<Integer>> diagonals = new ArrayList<>();
+        for(int i = 0; i < m + n - 1; ++i) {
+            diagonals.add(new ArrayList<>());
+        }
+        for(int i = 0; i < m; ++i) {
+            for(int j = 0; j < n; ++j) {
+                diagonals.get(i+j).add(mat[i][j]);
+            }
+        }
+        int[] res = new int[m*n];
+        int idx = 0;
+        for(int d = 0; d < diagonals.size(); ++d) {
+            List<Integer> list = diagonals.get(d);
+            if(d % 2 == 0) {
+                for(int k = list.size() - 1; k >= 0; --k) {
+                    res[idx++] = list.get(k);
                 }
             } else {
-                if (row == m - 1) {        // hit bottom wall: go right, flip
-                    col++;
-                    up = true;
-                } else if (col == 0) {     // hit left wall: go down, flip
-                    row++;
-                    up = true;
-                } else {                   // normal down-left move
-                    row++;
-                    col--;
+                for(int val : list) {
+                    res[idx++] = val;
                 }
             }
         }
