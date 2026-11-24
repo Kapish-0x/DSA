@@ -4,10 +4,8 @@ class Solution {
         int[] res = new int[m * n];
         int row = 0, col = 0;
         boolean up = true;
-
         for (int k = 0; k < m * n; k++) {
             res[k] = mat[row][col];
-
             if (up) {
                 if (col == n - 1) {        // hit right wall: go down, flip
                     row++;
